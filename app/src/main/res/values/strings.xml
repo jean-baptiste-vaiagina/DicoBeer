@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DicoBeer</string>
+    <string name="prevention_msg"> Labus dalcool est dangereux pour la santé, consommez avec modération.</string>
+    <string name="welcome_msg">Bienvenu sur DicoBeer!!!!</string>
+</resources>
